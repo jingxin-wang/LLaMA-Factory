@@ -730,5 +730,23 @@
       "prompt": "content"
     },
     "folder": "python"
+  },
+  "cot": {
+    "file_name": "cot.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "item_feature": {
+    "file_name": "item_feature.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
   }
 }
