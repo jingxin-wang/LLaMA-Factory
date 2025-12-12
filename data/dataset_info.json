@@ -732,7 +732,7 @@
     "folder": "python"
   },
   "cot": {
-    "file_name": "cot.json",
+    "file_name": "cot-top-20251211.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
@@ -741,7 +741,7 @@
     }
   },
   "item_feature": {
-    "file_name": "item_feature.json",
+    "file_name": "item_feature-top-20251211.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
