@@ -16,7 +16,7 @@ API_PORT=6008 API_MODEL_NAME=deepseek-ai/DeepSeek-R1-Distill-Qwen-7B llamafactor
 	--model_name_or_path deepseek-ai/DeepSeek-R1-Distill-Qwen-7B \
 	--template deepseekr1
 ### explain_agent_item_feature 
-API_PORT=6006 API_MODEL_NAME=explain_agent_item_feature_800 llamafactory-cli api \
+API_PORT=6006 API_MODEL_NAME=explain_agent_item_feature llamafactory-cli api \
 	--model_name_or_path /mnt/d/Users/27827/OneDrive/Desktop/推荐解释代理模型论文/explain_agent/code/module6/LLaMA-Factory/models/explain_agent/1211/item-feature/01 \
 	--template llama3
 ### explain_agent_user_cot
